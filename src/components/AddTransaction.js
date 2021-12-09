@@ -3,7 +3,7 @@ import { GlobalContext } from "../context/GlobalState";
 
 export default function AddTransaction() {
   const [text, setText] = useState("");
-  const [amount, setAmount] = useState(0);
+  const [amount, setAmount] = useState(null);
   const { addTransaction } = useContext(GlobalContext);
 
   const handleSubmit = (e) => {
@@ -14,6 +14,8 @@ export default function AddTransaction() {
       amount: parseFloat(amount),
     };
     addTransaction(newTransaction);
+    setText("");
+    setAmount("");
   };
 
   return (
