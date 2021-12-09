@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/literate-doodle/static/css/main.c19e7e01.chunk.css",
+    "main.js": "/literate-doodle/static/js/main.3b9a73e4.chunk.js",
+    "main.js.map": "/literate-doodle/static/js/main.3b9a73e4.chunk.js.map",
+    "runtime-main.js": "/literate-doodle/static/js/runtime-main.2b6a30df.js",
+    "runtime-main.js.map": "/literate-doodle/static/js/runtime-main.2b6a30df.js.map",
+    "static/js/2.eee30fde.chunk.js": "/literate-doodle/static/js/2.eee30fde.chunk.js",
+    "static/js/2.eee30fde.chunk.js.map": "/literate-doodle/static/js/2.eee30fde.chunk.js.map",
+    "index.html": "/literate-doodle/index.html",
+    "static/css/main.c19e7e01.chunk.css.map": "/literate-doodle/static/css/main.c19e7e01.chunk.css.map",
+    "static/js/2.eee30fde.chunk.js.LICENSE.txt": "/literate-doodle/static/js/2.eee30fde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b6a30df.js",
+    "static/js/2.eee30fde.chunk.js",
+    "static/css/main.c19e7e01.chunk.css",
+    "static/js/main.3b9a73e4.chunk.js"
+  ]
+}
